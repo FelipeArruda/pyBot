@@ -1,2 +1,2 @@
 Pillow==11.2.1
-ttkthemes==3.2.2
+ttkthemes==3.3.0
